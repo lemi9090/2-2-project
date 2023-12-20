@@ -1,7 +1,7 @@
 import requests
 import json
 
-VM_path = "192.168.56.1:8080/"
+VM_path = "???:8080/"
 
 def account(VM_path, order):
     # 일반적인 GET 요청
